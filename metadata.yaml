@@ -1,0 +1,45 @@
+_repo: The-Ballantyne-Press-and-its-founders-1796-1908_70869
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Dobson, William T.
+    alias: Dobson, W. T. (William T.)
+    gutenberg_agent_id: '41821'
+    url: http://www.gutenberg.org/2009/agents/41821
+creator:
+  editors:
+  - agent_name: Carrie, William Lowe
+    gutenberg_agent_id: '55973'
+    url: http://www.gutenberg.org/2009/agents/55973
+  - agent_name: James Ballantyne and Co.
+    aliases:
+    - Ballantyne and Company
+    - James Ballantyne & Co.
+    - Ballantyne & Company
+    gutenberg_agent_id: '55961'
+    url: http://www.gutenberg.org/2009/agents/55961
+description: Edited by the Press, with the assistance of W.L. Carrie, from material
+  collected by W.T. Dobson. Information from preface.
+gutenberg_issued: '2023-05-27'
+identifiers:
+  gutenberg: '70869'
+  lccn: '23005559'
+language: en
+pgterms:marc904: https://archive.org/details/ballantynepressi00jame/page/n9/mode/2up
+pgterms:marc905: 20210304204856anonymous
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bBallantyne, Hanson & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballantyne Press'
+- !lcsh 'Edinburgh (Scotland) -- Imprints'
+- !lcc 'Z'
+- GITenberg
+title: The Ballantyne Press and its founders, 1796-1908
+url: http://www.gutenberg.org/ebooks/70869
