@@ -6,6 +6,9 @@ contributor:
     alias: Dobson, W. T. (William T.)
     gutenberg_agent_id: '41821'
     url: http://www.gutenberg.org/2009/agents/41821
+covers:
+- cover_type: archival
+  image_path: 70869-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Carrie, William Lowe
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55961
 description: Edited by the Press, with the assistance of W.L. Carrie, from material
   collected by W.T. Dobson. Information from preface.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70869#The-Ballantyne-Press-and-its-founders-1796-1908
 gutenberg_issued: '2023-05-27'
 identifiers:
   gutenberg: '70869'
